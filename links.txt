@@ -2,4 +2,5 @@ https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt
 https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt
 https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/icloud.txt
 https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/apple.txt
-https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Microsoft.listhttps://gist.githubusercontent.com/g-hanwen/a3674711bc32937ce10febea83842ab4/raw/direct.yaml
+https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Microsoft.list
+https://gist.githubusercontent.com/g-hanwen/a3674711bc32937ce10febea83842ab4/raw/direct.yaml
